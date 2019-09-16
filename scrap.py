@@ -7,12 +7,12 @@ import pandas as pd
 # twitter API access credentials
 
 #Consumer API keys
-consumer_key = 'i8szMdYgwlqZrXmFJk2PGNBmd' #(API key)
-consumer_secret = 'srv0vtL93WVpsoQnYtj1Tr6UHqunu8ISIODVQVWYtvc42wqevj' #(API secret key)
+consumer_key = '' #(API key)
+consumer_secret = '' #(API secret key)
 
 # Access token & access token secret
-access_token = '567062540-2EdLNiAtOKrIqTJsnkSYiTpvCihnIy5ZFCKkm45V' #(Access token)
-access_secret = 'JIvd0LRdIg7e1tx1ltvTmVUc1JChNLSJyiqA4VKdC8Ks9' #(Access token secret)
+access_token = '' #(Access token)
+access_secret = '' #(Access token secret)
 # Read and write (Access level)
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
