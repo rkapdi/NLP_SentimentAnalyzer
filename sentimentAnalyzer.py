@@ -26,11 +26,11 @@ Learning material used: https://www.youtube.com/watch?v=o_OZdbCzHUA&list=PL2-daf
 import tweepy
 from textblob import TextBlob
 
-consumer_key = '3NOY7lwLebU3SvNtea3zkPGx5'
-consumer_secret = 'iBAFctwp0DzVou7swJkp16GMAAVVA6pLoSvUtznREz13uCW6Ie'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '567062540-j6aUlLpQuAo9oJhAjenmdJDDCYKYuPCMVHiImonj'
-access_token_secret = 'f1wJxPgNRIzdomzXVVvG599znolJZUc9j6E1aho34LSr4'
+access_token = ''
+access_token_secret = ''
 
 #aunthentication variable
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
